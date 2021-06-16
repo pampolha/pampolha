@@ -1,17 +1,24 @@
 ## ***Saudações! || Greetings!*** 😁
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-&emsp;&emsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampolha&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" height="50" width="40" src="https://github.com/pampolha/pampolha/blob/main/rusticon.jfif?raw=true">
+  <img align="center" height="29" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  &emsp;&emsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampolha&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div>
+  <br>
+  <a href="https://twitter.com/pampolhag"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
+  &emsp;&emsp;<a href="mailto:contato.gabrielpampolha.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+  &emsp;&emsp;<a href="https://www.instagram.com/gpampolha/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Discord:-pampolha%230007-black?style=for-the-badge&logo=discord&labelColor=black">  
 </div>
 
-<div>
-<br>
-<a href="https://twitter.com/pampolhag"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
-&emsp;&emsp;<a href="mailto:contato.gabrielpampolha.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
-&emsp;&emsp;<a href="https://www.instagram.com/gpampolha/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-&emsp;&emsp;<img src="https://img.shields.io/badge/Discord:-pampolha%230007-black?style=for-the-badge&logo=discord&labelColor=black">
-</div>
+
 
 ## *PT-BR*
 ```c
@@ -86,3 +93,4 @@ void main()
   system("pause");
 }
 ```
+![Snake animation](https://github.com/pampolha/pampolha/blob/output/github-contribution-grid-snake.svg)
