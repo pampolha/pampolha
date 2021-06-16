@@ -1,3 +1,4 @@
+# ***Saudações!*** 😁
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampolha&layout=compact&langs_count=16&theme=nord"/>
@@ -11,7 +12,6 @@
 &emsp;&emsp;<img src="https://img.shields.io/badge/Discord-pampolha%230007-black?style=for-the-badge&logo=discord">
 </div>
 
-# ***Saudações!*** 😁
 ```c
 #include <sorte.h>
 
