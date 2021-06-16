@@ -1,3 +1,16 @@
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampolha&layout=compact&langs_count=16&theme=nord"/>
+</div>
+
+<div>
+<br>
+<a href="https://twitter.com/pampolhag"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
+&emsp;&emsp;<a href="mailto:contato.gabrielpampolha.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+&emsp;&emsp;<a href="https://www.instagram.com/gpampolha/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+&emsp;&emsp;<img src="https://img.shields.io/badge/Discord-pampolha%230007-black?style=for-the-badge&logo=discord">
+</div>
+
 # ***Saudações!*** 😁
 ```c
 #include <sorte.h>
@@ -8,7 +21,6 @@ struct Info
   int Idade;
   char[50] Estudando;
   char[50] Projeto_atual;
-  char[100] Contato;
   char[] Experiencias;
 };
 
@@ -29,10 +41,7 @@ void main()
                            "- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n"
                            "- Completei a Quest Google Cloud Essentials do Google, e nela aprendi diversos conceitos em Cloud Engineering e aplicações do Kubernetes.\n"
                            "- Estou sempre estudando novas linguagens/frameworks por conta própria. Sou autodidata nas linguagens Rust e Javascript.\n");
-                            
-  strcopy(Eu.Contato, "Email: contato.gabrielpampolha@gmail.com \n"
-                      "Discord: pampolha#0007 \n");
-                            
+                                                        
   printf("Olá, Github!");
   
   system("pause");
@@ -49,7 +58,6 @@ struct Info
   int Age;
   char[50] Studying;
   char[50] Current_project;
-  char[100] Contact;
   char[] Experiences;
 };
 
@@ -70,10 +78,7 @@ void main()
                            "- Currently studying Software Engineering at UNICESUMAR.\n"
                            "- Completed Google's Google Cloud Essentials Quest, in which I learned many Cloud Engineering concepts and Kubernetes aplicattions.\n"
                            "- I'm always learning new languages/frameworks by myself. I'm self-taught in Rust and Javascript.\n");
-                            
-  strcopy(Me.Contact, "Email: contato.gabrielpampolha@gmail.com \n"
-                      "Discord: pampolha#0007 \n");
-                            
+                                                        
   printf("Hello, Github!");
   
   system("pause");
