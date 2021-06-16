@@ -1,8 +1,8 @@
 ## ***Saudações! || Greetings!*** 😁
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 &emsp;&emsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampolha&layout=compact&langs_count=16&theme=nord"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampolha&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div>
@@ -10,7 +10,7 @@
 <a href="https://twitter.com/pampolhag"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
 &emsp;&emsp;<a href="mailto:contato.gabrielpampolha.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
 &emsp;&emsp;<a href="https://www.instagram.com/gpampolha/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-&emsp;&emsp;<img src="https://img.shields.io/badge/Discord-pampolha%230007-black?style=for-the-badge&logo=discord">
+&emsp;&emsp;<img src="https://img.shields.io/badge/Discord:-pampolha%230007-black?style=for-the-badge&logo=discord&labelColor=black">
 </div>
 
 ## *PT-BR*
