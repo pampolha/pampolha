@@ -43,7 +43,7 @@ void main()
   
   strcopy(Eu.Estudando, "Node.js!\n");
   
-  strcopy(Eu.Projeto_atual, "Desenvolvendo meu segundo bot de Discord com Node.js!\n");
+  strcopy(Eu.Projeto_atual, "Desenvolvendo meu segundo bot de Discord com discord.js!\n");
   
   strcopy(Eu.Experiencias, "- Comecei a minha jornada ná área da programção em Fevereiro de 2021.\n"
                            "- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi com C, Python e C#.\n"
@@ -80,7 +80,7 @@ void main()
   
   strcopy(Me.Studying, "Node.js!\n");
   
-  strcopy(Me.Current_project, "Developing my second discord bot with Node.js!\n");
+  strcopy(Me.Current_project, "Developing my second discord bot with discord.js!\n");
   
   strcopy(Me.Experiences,  "- Started my programming journey in February 2021.\n"
                            "- Studied Computer Engineering for half a year at CESUPA, there I learned and developed with C, Python and C#.\n"
