@@ -4,6 +4,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="50" width="40" src="https://github.com/pampolha/pampolha/blob/main/rusticon.jfif?raw=true">
   <img align="center" height="29" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,75 +22,37 @@
 ![Snake animation](https://github.com/pampolha/pampolha/blob/output/github-contribution-grid-snake.svg)
 
 ## *PT-BR*
-```c
-#include <sorte.h>
-
-struct Info
+```js
+const Eu =
 {
-  char[20] Nome;
-  int Idade;
-  char[50] Estudando;
-  char[50] Projeto_atual;
-  char[] Experiencias;
-};
-
-void main()
-{
-  struct Info Eu;
-  
-  strcopy(Eu.Nome, "Gabriel Pampolha\n");
-  
-  Eu.Idade = 19;
-  
-  strcopy(Eu.Estudando, "Node.js!\n");
-  
-  strcopy(Eu.Projeto_atual, "Desenvolvendo meu segundo bot de Discord com discord.js!\n");
-  
-  strcopy(Eu.Experiencias, "- Comecei a minha jornada ná área da programção em Fevereiro de 2021.\n"
-                           "- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi com C, Python e C#.\n"
-                           "- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n"
-                           "- Completei a Quest Google Cloud Essentials do Google, e nela aprendi diversos conceitos em Cloud Engineering e aplicações do Kubernetes.\n"
-                           "- Estou sempre estudando novas linguagens/frameworks por conta própria. Sou autodidata nas linguagens Rust e Javascript.\n");
-                                                        
-  printf("Olá, Github!");
-  
-  system("pause");
+  nome: 'Gabriel Pampolha',
+  idade: 19,
+  estudanddo: 'Node.js',
+  projetoAtual: 'Desenvolvendo um bot de Discord!,
+  experiencias: '- Comecei a minha jornada ná área da programção em Fevereiro de 2021.\n' +
+                '- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi em C, Python e C#.\n' +
+                '- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n' +
+                '- Completei o curso "Google Cloud Essentials" do google, e nela aprendi diversos conceitos em cloud engineering e aplicações do Kubernetes.\n' +
+                '- Estou sempre estudando novas linguagens/conceitos/paradigmas de programação. Sou autodidata em Rust e Javascript.'            
 }
+
+console.log('Olá, github!');
 ```
 
 ## *EN-US*
-```c
-#include <luck.h>
-
-struct Info
+```js
+const Me =
 {
-  char[20] Name;
-  int Age;
-  char[50] Studying;
-  char[50] Current_project;
-  char[] Experiences;
-};
-
-void main()
-{
-  struct Info Me;
-  
-  strcopy(Eu.Name, "Gabriel Pampolha\n");
-  
-  Me.Age = 19;
-  
-  strcopy(Me.Studying, "Node.js!\n");
-  
-  strcopy(Me.Current_project, "Developing my second discord bot with discord.js!\n");
-  
-  strcopy(Me.Experiences,  "- Started my programming journey in February 2021.\n"
-                           "- Studied Computer Engineering for half a year at CESUPA, there I learned and developed with C, Python and C#.\n"
-                           "- Currently studying Software Engineering at UNICESUMAR.\n"
-                           "- Completed Google's Google Cloud Essentials Quest, in which I learned many Cloud Engineering concepts and Kubernetes aplicattions.\n"
-                           "- I'm always learning new languages/frameworks by myself. I'm self-taught in Rust and Javascript.\n");
-                                                        
-  printf("Hello, Github!");
-  
-  system("pause");
+  name: 'Gabriel Pampolha',
+  age: 19,
+  studying: 'Node.js',
+  currentProject: 'Developing a discord bot!,
+  experiences:  '- First started my journey in programming on February 2021.\n' +
+                '- Studied Computer Engineering for a whole semester, where I learned and developed in C, Python and C#.\n' +
+                '- Currently studying Software Engineering in UNICESUMAR\n' +
+                '- Completed google's "Google Cloud Essentials" course, and learned the essentials of cloud engineering and kubernetes applications.\n' +
+                '- Always learning new programming languages/concepts/paradigms. Self-taught in Rust and Javascript.'        
 }
+
+console.log('Hello, github!');
 ```
