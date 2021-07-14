@@ -16,7 +16,7 @@
   <a href="https://twitter.com/pampolhag"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
   &emsp;&emsp;<a href="mailto:contato.gabrielpampolha.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
   &emsp;&emsp;<a href="https://www.instagram.com/gpampolha/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-  &emsp;&emsp;<img src="https://img.shields.io/badge/Discord:-pampolha%230007-black?style=for-the-badge&logo=discord&labelColor=black">  
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Discord:-pampolha%238477-black?style=for-the-badge&logo=discord&labelColor=black">  
 </div>
 
 ![Snake animation](https://github.com/pampolha/pampolha/blob/output/github-contribution-grid-snake.svg)
