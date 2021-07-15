@@ -29,7 +29,7 @@ const Eu =
   idade: 19,
   estudanddo: 'Node.js',
   projetoAtual: 'Desenvolvendo um bot de Discord!,
-  experiencias: '- Comecei a minha jornada ná área da programção em Fevereiro de 2021.\n' +
+  experiencias: '- Comecei a minha jornada na área da programção em Fevereiro de 2021.\n' +
                 '- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi em C, Python e C#.\n' +
                 '- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n' +
                 '- Completei o curso "Google Cloud Essentials" do google, e nela aprendi diversos conceitos em cloud engineering e aplicações do Kubernetes.\n' +
