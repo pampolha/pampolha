@@ -28,7 +28,7 @@ const Eu =
 {
   nome: 'Gabriel Pampolha',
   idade: 19,
-  estudanddo: 'Java',
+  estudanddo: 'HTML & CSS',
   projetoAtual: 'Desenvolvendo um bot de Discord!,
   experiencias: '- Comecei a minha jornada na área da programção em Fevereiro de 2021.\n' +
                 '- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi em C, Python e C#.\n' +
@@ -46,7 +46,7 @@ const Me =
 {
   name: 'Gabriel Pampolha',
   age: 19,
-  studying: 'Java',
+  studying: 'HTML & CSS',
   currentProject: 'Developing a discord bot!,
   experiences:  '- First started my journey in programming on February 2021.\n' +
                 '- Studied Computer Engineering for a whole semester, where I learned and developed in C, Python and C#.\n' +
