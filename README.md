@@ -1,10 +1,13 @@
 ## ***Saudações! || Greetings!*** 😁
 <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="50" width="40" src="https://github.com/pampolha/pampolha/blob/main/rusticon.jfif?raw=true">
   <img align="center" height="29" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  
 </div>
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,33 +29,35 @@
 ```js
 const Eu =
 {
-  nome: 'Gabriel Pampolha',
+  nome: "Gabriel Pampolha",
   idade: 19,
-  estudanddo: 'HTML & CSS',
-  projetoAtual: 'Desenvolvendo um bot de Discord!,
-  experiencias: '- Comecei a minha jornada na área da programção em Fevereiro de 2021.\n' +
-                '- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi em C, Python e C#.\n' +
-                '- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n' +
-                '- Completei o curso "Google Cloud Essentials" do google, e nela aprendi diversos conceitos em cloud engineering e aplicações do Kubernetes.\n' +
-                '- Estou sempre estudando novas linguagens/conceitos/paradigmas de programação. Sou autodidata em Rust e Javascript.'            
+  estudanddo: "MERN Stack",
+  projetoAtual: "Mantendo meu bot no Discord!,
+  experiencias: "- Comecei a minha jornada na área da programção em Fevereiro de 2021.\n" +
+                "- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi em C, Python e C#.\n" +
+                "- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n" +
+                "- Completei o curso "Google Cloud Essentials" do google, e nela aprendi diversos conceitos em cloud engineering e aplicações do Kubernetes.\n" +
+                "- Estou sempre estudando novas linguagens/conceitos/paradigmas de programação.\n" 
+                "- Sou autodidata em Rust, Javascript, Node.js e desenvolvimento para Android utilizando Java."            
 }
 
-console.log('Olá, github!');
+console.log("Olá, github!");
 ```
 
 ## *EN-US*
 ```js
 const Me =
 {
-  name: 'Gabriel Pampolha',
+  name: "Gabriel Pampolha",
   age: 19,
-  studying: 'HTML & CSS',
-  currentProject: 'Developing a discord bot!,
-  experiences:  '- First started my journey in programming on February 2021.\n' +
-                '- Studied Computer Engineering for a whole semester, where I learned and developed in C, Python and C#.\n' +
-                '- Currently studying Software Engineering in UNICESUMAR\n' +
-                '- Completed google's "Google Cloud Essentials" course, and learned the essentials of cloud engineering and kubernetes applications.\n' +
-                '- Always learning new programming languages/concepts/paradigms. Self-taught in Rust and Javascript.'        
+  studying: "HTML & CSS",
+  currentProject: "Developing a discord bot!,
+  experiences:  "- First started my journey in programming on February 2021.\n" +
+                "- Studied Computer Engineering for a whole semester, where I learned and developed in C, Python and C#.\n" +
+                "- Currently studying Software Engineering in UNICESUMAR\n" +
+                "- Completed google"s "Google Cloud Essentials" course, and learned the essentials of cloud engineering and kubernetes applications.\n" +
+                "- Always learning new programming languages/concepts/paradigms.\n" 
+                "- Self-taught in Rust, Javascript, Node.js and Android development with Java."
 }
 
 console.log('Hello, github!');
