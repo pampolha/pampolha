@@ -30,9 +30,9 @@
 const Eu =
 {
   nome: "Gabriel Pampolha",
-  idade: 19,
+  idade: 20,
   estudanddo: "MERN Stack",
-  projetoAtual: "Mantendo meu bot no Discord!,
+  projetoAtual: "Criando meu primeiro site!",
   experiencias: "- Comecei a minha jornada na área da programção em Fevereiro de 2021.\n" +
                 "- Cursei um semestre de Engenharia da Computação, no qual aprendi e desenvolvi em C, Python e C#.\n" +
                 "- Atualmente estou cursando Engenharia de Software na UNICESUMAR\n" +
@@ -49,9 +49,9 @@ console.log("Olá, github!");
 const Me =
 {
   name: "Gabriel Pampolha",
-  age: 19,
-  studying: "HTML & CSS",
-  currentProject: "Developing a discord bot!,
+  age: 20,
+  studying: "MERN Stack",
+  currentProject: "Creating my first website!",
   experiences:  "- First started my journey in programming on February 2021.\n" +
                 "- Studied Computer Engineering for a whole semester, where I learned and developed in C, Python and C#.\n" +
                 "- Currently studying Software Engineering in UNICESUMAR\n" +
