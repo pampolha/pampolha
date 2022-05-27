@@ -1,4 +1,4 @@
-## ***Greetings!*** 😁
+## ***Bem vindo(a)!*** 😁
 <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="29" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,11 +25,12 @@
 ![Snake animation](https://github.com/pampolha/pampolha/blob/output/github-contribution-grid-snake.svg)
 
 ```js
-const me = {
-  name: "Gabriel Pampolha",
-  age: 20,
-  studying: "MERN Stack + Java Spring Boot",
-  currentProject: "Creating my first website!"
+const eu = {
+  objetivo: "Obter primeira experiência profissional",
+  nome: "Gabriel Pampolha",
+  idade: 20,
+  estudando: "MERN Stack",
+  projetoAtual: "Preenchendo meu portfólio!"
 }
 
 console.log('Hello, github!');
