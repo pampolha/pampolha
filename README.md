@@ -1,4 +1,4 @@
-## ***Bem vindo(a)!*** 😁
+## ***Bem-vindo(a)!*** 😁
 <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="29" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
