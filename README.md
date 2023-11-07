@@ -21,5 +21,7 @@
   <a href="https://www.linkedin.com/in/pampolha/"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin"></a>&emsp;&emsp;
   <img src="https://img.shields.io/badge/Discord:-pampolha-black?style=for-the-badge&logo=discord&labelColor=black">  
 </div>
+    
+---
 
-![Snake animation](https://github.com/pampolha/pampolha/blob/output/github-contribution-grid-snake.svg)
+*Hello, there. I am open to contact*
