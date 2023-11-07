@@ -1,6 +1,8 @@
 ![Obi-Wan: These aren't the droids you're looking for.](https://raw.githubusercontent.com/pampolha/pampolha/main/thesearentthedroids.gif)
 
 ---
+*serverless framework, amazon web services, relational databases, back-ended javascript and lots of candy.*
+---
 <div>
   <img align="center" height="29" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -24,4 +26,4 @@
     
 ---
 
-*Hello, there. I am open to contact*
+*Hello, there. I am always open to contact*
