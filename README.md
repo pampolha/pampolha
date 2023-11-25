@@ -1,7 +1,7 @@
 ![Obi-Wan: These aren't the droids you're looking for.](https://raw.githubusercontent.com/pampolha/pampolha/main/thesearentthedroids.gif)
 
 ---
-*webscraping, serverless, cloud computing, back-ended javascript and a bad taste for text editor themes.*
+*webscraping, cloud computing, js, ts, node, express, mongodb, dynamodb, postgresql, serverless framework, aws*
 ---
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pampolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
